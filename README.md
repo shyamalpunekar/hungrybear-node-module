@@ -6,7 +6,7 @@
 
 ## Description
 
-_An application that determines a user’s age based on a planet’s solar years.._
+_An hungry bear application that hungry bear can eat a small, medium or large meal, and each meal increases the foodLevel by a different amount..._
 
 ## Setup/Installation Requirements
 * npm install gulp --save-dev
@@ -18,15 +18,8 @@ _An application that determines a user’s age based on a planet’s solar years
 
 | Behavior      | Input | Output |
 | ------------- | ------------- | ------------- |
-| The user shall be able to enter User's age | 12 | | |
-| The user shall be able to User's date of birth | mm-dd-yyyy format| | |
-| Convert Earth Age Years into seconds| earthYears  | seconds |
-| Determine age difference between 2 dates | YYYY-mm-dd diff YYYY-mm-dd| |
-| Return age earthling in Mercury Years| earthAge | planetAge |
-| Return age earthling in Venus Years| earthAge | planetAge |
-| Return age earthling in Mars Years| earthAge | planetAge |
-| Return age earthling in Jupiter Years| earthAge | planetAge |
-| Determine User has left to live on each planet |  |  |
+| |  | | |
+|  | | | |
 
 # Setup
   https://github.com/shyamalpunekar/galactic-age-calculator
